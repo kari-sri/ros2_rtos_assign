@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_path_planner = ros2_rtos_pkg.turtle_path_planner:main
+

@@ -1,0 +1,20 @@
+[1.425s] Invoking command in '/home/teja/ros2_rtos/src/ros2_rtos_pkg': PYTHONPATH=/home/teja/ros2_rtos/build/ros2_rtos_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/teja/ros2_rtos/install/ros2_rtos_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_rtos_pkg build --build-base /home/teja/ros2_rtos/build/ros2_rtos_pkg/build install --record /home/teja/ros2_rtos/build/ros2_rtos_pkg/install.log --single-version-externally-managed
+[1.749s] running egg_info
+[1.760s] writing ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/PKG-INFO
+[1.761s] writing dependency_links to ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/dependency_links.txt
+[1.762s] writing entry points to ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/entry_points.txt
+[1.773s] writing requirements to ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/requires.txt
+[1.773s] writing top-level names to ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/top_level.txt
+[1.773s] reading manifest file '../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/SOURCES.txt'
+[1.774s] writing manifest file '../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info/SOURCES.txt'
+[1.774s] running build
+[1.789s] running build_py
+[1.790s] running install
+[1.790s] running install_lib
+[1.790s] running install_egg_info
+[1.790s] removing '/home/teja/ros2_rtos/install/ros2_rtos_pkg/lib/python3.10/site-packages/ros2_rtos_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.790s] Copying ../../build/ros2_rtos_pkg/ros2_rtos_pkg.egg-info to /home/teja/ros2_rtos/install/ros2_rtos_pkg/lib/python3.10/site-packages/ros2_rtos_pkg-0.0.0-py3.10.egg-info
+[1.791s] running install_scripts
+[1.824s] Installing turtle_path_planner script to /home/teja/ros2_rtos/install/ros2_rtos_pkg/lib/ros2_rtos_pkg
+[1.827s] writing list of installed files to '/home/teja/ros2_rtos/build/ros2_rtos_pkg/install.log'
+[1.872s] Invoked command in '/home/teja/ros2_rtos/src/ros2_rtos_pkg' returned '0': PYTHONPATH=/home/teja/ros2_rtos/build/ros2_rtos_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/teja/ros2_rtos/install/ros2_rtos_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros2_rtos_pkg build --build-base /home/teja/ros2_rtos/build/ros2_rtos_pkg/build install --record /home/teja/ros2_rtos/build/ros2_rtos_pkg/install.log --single-version-externally-managed
